@@ -16,7 +16,5 @@
     "url": "https://github.com/inspectaTech/npm_tutorial/issues"
   },
   "homepage": "https://github.com/inspectaTech/npm_tutorial#readme",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
