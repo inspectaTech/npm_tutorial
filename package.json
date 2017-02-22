@@ -1,10 +1,10 @@
 {
-  "name": "@inspectatech/my_first_pkg_json",
+  "name": "@inspectatech/npm_tutorial",
   "version": "1.0.0",
   "description": "first package json test run",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/inspectaTech/npm_tutorial/issues"
   },
-  "homepage": "https://github.com/inspectaTech/npm_tutorial#readme"
+  "homepage": "https://github.com/inspectaTech/npm_tutorial#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
 }
